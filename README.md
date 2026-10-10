@@ -14,8 +14,14 @@
     - Developed multi-scenario cost sensitivity models to assess downside risk
     - Analyzed pricing power, hedging feasibility, and route rationalization levers
     - Recommended margin-protection strategies aligned with long-term sustainability
+  
+2. 💰**[India Oil & Lubricants Supply Planning Analytics Dashboard](https://github.com/madhu-009/India-Oil-Lubricants-Supply-Planning-Analytics-Dashboard)** 
+    
+    - Built an interactive supply planning dashboard for a simulated lubricants supply chain covering 50 SKUs, 9 locations, and 24 months, complemented by Indian petroleum demand trends from PPAC public data
+    - Analysed inventory and production data to identify 18 stockout risks and 35 stock variances with replenishment recommendations for high-risk SKUs.
 
-2. 📈 **[Equity Research Analysis - Jubilant Foodworks Ltd.](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
+   
+3. 📈 **[Equity Research Analysis - Jubilant Foodworks Ltd.](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
    
    📊 Financial Statement Analysis
    📉 Comparative & Common-Size Analysis
@@ -24,7 +30,7 @@
    📈 Profitability & Performance Evaluation
    💡 Key Financial Insights & Inferences
 
-3. **[Financial Determinants of ESG Performance among NIFTY 100 Companies | Research Project ](https://github.com/madhu-009/Research-Project/tree/main)**
+4. **[Financial Determinants of ESG Performance among NIFTY 100 Companies | Research Project ](https://github.com/madhu-009/Research-Project/tree/main)**
 
    - 📊 Analyze financial and firm-specific determinants of ESG performance
    - 🔎 Examine relationships between financial variables and ESG scores
@@ -33,7 +39,7 @@
    - 🧠 Use SHAP for model explainability and feature importance
    - 💡 Derive insights into the key factors influencing ESG performance
 
-4. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
+5. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
 
      Financial Strategy | Banking Industry
    - Built a 3-page Power BI dashboard (Summary, Overview, Details) for end-to-end loan performance analysis.
@@ -41,7 +47,7 @@
    - Delivered actionable insights to identify high-risk loans, reduce default prediction time and improve loan
      approval strategy which contributing to drop in loan defaults.
 
-5. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
+6. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
    📉 Business Analytics | Retention Strategy
    - Diagnosed key churn drivers using customer behavioral and transactional data
    - Segmented at-risk customers to prioritize intervention strategies
