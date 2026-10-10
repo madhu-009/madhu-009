@@ -15,7 +15,7 @@
     - Analyzed pricing power, hedging feasibility, and route rationalization levers
     - Recommended margin-protection strategies aligned with long-term sustainability
   
-2. 💰**[India Oil & Lubricants Supply Planning Analytics Dashboard](https://github.com/madhu-009/India-Oil-Lubricants-Supply-Planning-Analytics-Dashboard)** 
+2. 💰 **[India Oil & Lubricants Supply Planning Analytics Dashboard](https://github.com/madhu-009/India-Oil-Lubricants-Supply-Planning-Analytics-Dashboard)** 
     
     - Built an interactive supply planning dashboard for a simulated lubricants supply chain covering 50 SKUs, 9 locations, and 24 months, complemented by Indian petroleum demand trends from PPAC public data
     - Analysed inventory and production data to identify 18 stockout risks and 35 stock variances with replenishment recommendations for high-risk SKUs.
