@@ -15,8 +15,8 @@
     - Analyzed pricing power, hedging feasibility, and route rationalization levers
     - Recommended margin-protection strategies aligned with long-term sustainability
   
-2. 💰 **[FinWise](https://github.com/madhu-009/Finwise)* 
-    
+2. 💰 **[FinWise](https://github.com/madhu-009/Finwise)**
+
    A FastAPI-based stock analysis and finance dashboard app with news aggregation, technical indicators, portfolio management, and a personalized chat interface.
 
    
