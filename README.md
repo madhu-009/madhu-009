@@ -15,10 +15,9 @@
     - Analyzed pricing power, hedging feasibility, and route rationalization levers
     - Recommended margin-protection strategies aligned with long-term sustainability
   
-2. 💰 **[India Oil & Lubricants Supply Planning Analytics Dashboard](https://github.com/madhu-009/India-Oil-Lubricants-Supply-Planning-Analytics-Dashboard)** 
+2. 💰 **[FinWise](https://github.com/madhu-009/Finwise)* 
     
-    - Built an interactive supply planning dashboard for a simulated lubricants supply chain covering 50 SKUs, 9 locations, and 24 months, complemented by Indian petroleum demand trends from PPAC public data
-    - Analysed inventory and production data to identify 18 stockout risks and 35 stock variances with replenishment recommendations for high-risk SKUs.
+   A FastAPI-based stock analysis and finance dashboard app with news aggregation, technical indicators, portfolio management, and a personalized chat interface.
 
    
 3. 📈 **[Equity Research Analysis - Jubilant Foodworks Ltd.](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
